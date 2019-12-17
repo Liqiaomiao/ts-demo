@@ -1,0 +1,20 @@
+{
+  "name": "lesson13-declare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "importjs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babel-register": "^6.26.0"
+  },
+  "dependencies": {
+    "@types/react": "^16.9.11",
+    "react": "^16.12.0"
+  }
+}

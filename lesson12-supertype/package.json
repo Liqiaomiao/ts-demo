@@ -1,0 +1,12 @@
+{
+  "name": "lesson12-supertype",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.11.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.11"
+  }
+}

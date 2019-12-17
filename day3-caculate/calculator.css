@@ -1,0 +1,24 @@
+.row button{width:3rem;height: 2rem;margin: 0;padding: 0}
+.row .button_Clear{
+    width: 9rem;
+}
+.row .button_0{
+    width: 6rem;
+}
+.row{
+    display: flex;
+}
+.output{
+    width: 12rem;
+    position: relative;
+    height: 2rem
+}
+.output span{
+    position: absolute;
+    right: .2rem;
+    bottom: .2rem;
+}
+.calc{
+    width: 12rem;
+    border: 1px solid gray;
+}

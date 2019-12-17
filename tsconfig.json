@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "target": "es2015"
+    },
+    "files": [
+        "lesson5_class/1.ts"
+      ]
+}
