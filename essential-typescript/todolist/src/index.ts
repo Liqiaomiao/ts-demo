@@ -7,3 +7,4 @@ const todos = [
 let collection = new TodoCollection('Adam',todos);
 let newId = collection.addToDo('go for fun');
 let todoItem = collection.getTodoById(newId)
+collection.getTodoItems(true).forEach(item=>item.printDetails())
