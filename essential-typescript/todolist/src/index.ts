@@ -7,5 +7,7 @@ const todos = [
 let collection = new TodoCollection('Adam',todos);
 let newId = collection.addToDo('go for fun');
 let todoItem = collection.getTodoById(newId)
-collection.removeComplete()
+// collection.removeComplete()
+console.log(`${collection.userName}'s Todo List `
+    + `(${ collection.getItemCounts().incomplete } items to do)`);
 collection.getTodoItems(true).forEach(item=>item.printDetails())
