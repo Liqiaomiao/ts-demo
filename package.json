@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^12.12.8"
-  }
+    "@types/node": "^12.12.8",
+    "inquirer": "^7.0.1"
+  },
+  "devDependencies": {}
 }
